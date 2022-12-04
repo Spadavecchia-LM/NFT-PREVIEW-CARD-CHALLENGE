@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/nft-preview-card-solution-E40zNza2Aa)
 - Live Site URL: (https://jocular-douhua-2e28fe.netlify.app)
 
 
